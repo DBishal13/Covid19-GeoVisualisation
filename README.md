@@ -9,3 +9,4 @@ In this project, I have processed the geospatial data using Python. I have went 
 * Bubble Maps
 * Spatial Join
 * Choropleth Map
+[![image] (https://github.com/DBishal13/Covid19-GeoVisualisation/blob/main/Outputs/output_55_0.png)
